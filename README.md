@@ -7,3 +7,9 @@
 ## Team
 
 JustAlex - Alexandre Lavoie (40129457)
+
+## Install
+
+```
+pip3 install gensim pandas
+```
