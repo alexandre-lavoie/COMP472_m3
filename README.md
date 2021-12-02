@@ -11,5 +11,17 @@ JustAlex - Alexandre Lavoie (40129457)
 ## Install
 
 ```
-pip3 install gensim pandas
+pip3 install gensim matplotlib pandas
 ```
+
+or
+
+```
+pip3 install -r requirements.txt
+```
+
+## Run
+
+`main.ipynb` contains the model download + experiments. The data is dumped to CSV.
+
+`analysis.ipynb` contains analysis on the various CSV files.
